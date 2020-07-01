@@ -12,6 +12,7 @@ window.config(bg = "#00334e")
 window.iconbitmap('iconmain.ico')
 operationText = StringVar()
 resultText = StringVar()
+
 values=""
 values_final=""
 
