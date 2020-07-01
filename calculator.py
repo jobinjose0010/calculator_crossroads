@@ -6,6 +6,7 @@
 
 from tkinter import *
 from tkinter import messagebox
+#pip install pillow for PIL
 from PIL import ImageTk, Image
 from math import *
 
